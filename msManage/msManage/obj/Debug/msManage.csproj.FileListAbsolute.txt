@@ -1,0 +1,20 @@
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\bin\Debug\msManage.exe.config
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\bin\Debug\msManage.exe
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\bin\Debug\msManage.pdb
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\obj\Debug\msManage.MsForm.resources
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\obj\Debug\msManage.Properties.Resources.resources
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\obj\Debug\msManage.csproj.GenerateResource.cache
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\obj\Debug\msManage.csproj.CoreCompileInputs.cache
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\obj\Debug\msManage.exe
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\obj\Debug\msManage.pdb
+E:\WORK\2019-03-19-2019-03-21(C#)\msManage\msManage\obj\Debug\msManage.csprojAssemblyReference.cache
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\bin\Debug\msManage.exe.config
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\bin\Debug\msManage.exe
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\bin\Debug\msManage.pdb
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\obj\Debug\msManage.csprojAssemblyReference.cache
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\obj\Debug\msManage.MsForm.resources
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\obj\Debug\msManage.Properties.Resources.resources
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\obj\Debug\msManage.csproj.GenerateResource.cache
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\obj\Debug\msManage.csproj.CoreCompileInputs.cache
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\obj\Debug\msManage.exe
+E:\WORK\2019-03-19-2019-03-21(C# AccessDB)\msManage\msManage\obj\Debug\msManage.pdb
